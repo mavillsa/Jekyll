@@ -1,6 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Bienvenido a Mi Sitio
 ---
+# ¡Hola! 👋
+Bienvenido a mi página web hecha con **Jekyll**.
+Aquí podrás encontrar contenido interesante, artículos y proyectos personales.
+💡 **Explora más:**
+- [Sobre mí](about)
+- [Ver proyectos](#proyectos)
+- [Contáctame](#contacto)
