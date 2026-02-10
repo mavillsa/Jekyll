@@ -3,9 +3,7 @@
 layout: home
 title: Inicio
 ---
-<div style="text-align: center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logotipo_de_la_Universidad_de_La_Rioja.svg/640px-Logotipo_de_la_Universidad_de_La_Rioja.svg.png" width="250" alt="Universidad de La Rioja">
-</div>
+
 # ¡Hola! Soy Manuel Villota 👋
 
 Bienvenido a mi portafolio digital para la asignatura de **Taller Transversal I**. Esta página ha sido generada estáticamente con **Jekyll** y desplegada automáticamente gracias a **GitHub Actions**.
@@ -26,8 +24,4 @@ Estoy disponible para colaboraciones, dudas sobre la práctica o para tomar un c
 
 ---
 
-### 🚀 Estado del Proyecto
-- [x] Crear repositorio
-- [x] Configurar Jekyll
-- [x] Pelear con GitHub Actions
-- [x] **Aprobar la práctica** (Esperemos 🙏)
+
