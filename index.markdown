@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bienvenido a la página de Manuel Villota
+title: Bienvenido
 ---
 # ¡Hola! 👋
 Bienvenido a mi página web hecha con **Jekyll**.
